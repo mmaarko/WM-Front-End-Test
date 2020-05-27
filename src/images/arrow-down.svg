@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 8" width="15" height="8">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-698 -58L70 -58L70 2470L-698 2470Z" />
+		</clipPath>
+		<image width="492" height="292" id="img1" href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNC4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCA0OTIgNDkyIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA0OTIgNDkyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDojOEI4QjhCO30NCjwvc3R5bGU+DQo8Zz4NCgk8Zz4NCgkJPHBhdGggY2xhc3M9InN0MCIgZD0iTTQ4NC4xLDEyNUw0NjgsMTA4LjhjLTUuMS01LjEtMTEuOC03LjktMTktNy45Yy03LjIsMC0xNCwyLjgtMTksNy45TDI0Ni4xLDI5Mi42TDYyLjEsMTA4LjYNCgkJCWMtNS4xLTUuMS0xMS44LTcuOS0xOS03LjlzLTE0LDIuOC0xOSw3LjlMNy45LDEyNC43Yy0xMC41LDEwLjUtMTAuNSwyNy42LDAsMzguMUwyMjcsMzgyLjdjNS4xLDUuMSwxMS44LDguNiwxOS4xLDguNmgwLjENCgkJCWM3LjIsMCwxNC0zLjYsMTktOC42bDIxOC45LTIxOS4zYzUuMS01LjEsNy45LTEyLDcuOS0xOS4yQzQ5MiwxMzYuOSw0ODkuMiwxMzAsNDg0LjEsMTI1eiIvPg0KCTwvZz4NCjwvZz4NCjwvc3ZnPg0K"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="24 meseca_768" clip-path="url(#cp1)">
+		<use id="download" href="#img1" transform="matrix(0.028,0,0,0.027,0.795,0.169)"/>
+	</g>
+</svg>
